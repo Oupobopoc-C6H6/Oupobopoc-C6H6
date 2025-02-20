@@ -4,7 +4,7 @@ I'm a Biomedical Engineering student passionate about medical technology, electr
 
 ## 📂 Projects 
 - [My Personal Website](https://github.com/Oupobopoc-C6H6/Website)
-- [Automated Scheduler](https://github.com/Oupobopoc-C6H6/Carts)
+- [Automated Scheduler WIP)](https://github.com/Oupobopoc-C6H6/Carts)
 
 ## Check Out My Other Work
 [💻 Website](www.joseph-groom.com)  |  [🔗 LinkedIn](https://www.linkedin.com/in/joseph-groom-bme/)
